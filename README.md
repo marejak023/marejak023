@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any sort of computational physics related project
 - 📫 How to reach me you can e-mail me: marejak023@gmail.com or reach me on discord: marejak023#8529
 
-Lookinf forward for any collaborations :)
+Looking forward for any collaborations :)
 
 <!---
 marejak023/marejak023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
