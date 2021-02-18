@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics, mathematics and theoretical electronics
 - 🌱 I’m currently learning atomic and submolecular physics
 - 💞️ I’m looking to collaborate on any sort of computational physics related project
-- 📫 How to reach me you can e-mail me: marejak023@gmail.com or reach me on discord: marejak023#8529
+- 📫 How to reach mon my e-mail: marejak023@gmail.com or on discord: marejak023#8529
 
 Looking forward for any collaborations :)
 
