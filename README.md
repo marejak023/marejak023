@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @marejak023
 - 👀 I’m interested in physics, mathematics and theoretical electronics
-- 🌱 I’m currently learning atomic and submolecular physics
-- 💞️ I’m looking to collaborate on any sort of computational physics related project
-- 📫 How to reach mon my e-mail: marejak023@gmail.com or on discord: marejak023#8529
+- 💞️ I’m looking to collaborate on any project
+- 📫 You can contact me on discord: marejak023#8529
 
 Looking forward for any collaborations :)
 
