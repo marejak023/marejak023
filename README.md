@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marejak023
-- 👀 I’m interested in physics, mathematics and theoretical electronics
+- 👀 I’m interested in mathematical and theoretical physics
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can contact me on discord: marejak023#8529
 
